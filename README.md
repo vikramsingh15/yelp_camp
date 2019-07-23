@@ -2,17 +2,17 @@
    			Project Description (features)
 
 This project contains many features and with the help of these you can 
-	-sign up
+	1)sign up
 New user can sign up to the website for accessing the features of the website like adding a comment
-	-log in
+	2)log in
 		Existing users can log in who already signed up
-	-add new campground
+	3)add new campground
 The Users can create their own campground with description which includes adding title, photograph and price. 
-	-add new comment
+	4)add new comment
 Logged in Users can comment on the campground created by other Users.
 	-delete comment
 		User who commented can delete the comment later.
-	-admin control over the web
+	5) admin control over the web site
 Admin of the website can delete the campgrounds and comments created by the user of the website.
 This web includes all the basic features which are required to show case the backend 
 work with the help of node.js framework- EXPRESS
