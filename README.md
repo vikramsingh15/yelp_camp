@@ -1,5 +1,6 @@
 # Yelp_camp (Developed using ES5)
 
+In this website we can post new campgrounds and get all information related to campground.
 
 
 Link of this website(https://immense-forest-16737.herokuapp.com).
