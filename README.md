@@ -1,4 +1,4 @@
-# Yelp_camp (Developed using E.S 5)
+# Yelp_camp (Developed using ES5)
 
 
 
@@ -14,7 +14,7 @@ Link of this website(https://immense-forest-16737.herokuapp.com).
 
 ### Add new camp ground (Basic CRUD operation included)
 
-The Users can create their own campground with description which includes adding title, photograph and price. 
+The Users can create their own campground with description which includes adding title, image (using cloudinary) and price. 
 
 ### Add Comments (Basic CRUD operation included)
 Logged in Users can comment on the campground created by other Users.
@@ -22,19 +22,21 @@ Logged in Users can comment on the campground created by other Users.
 ### Admin control over the website
 Admin of the website can delete the campgrounds and comments created by the user of the website.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 ### STACK USED IN WEBSITE
 
 	1.Node.js 
 
-	In this project node.js is used with the help of EXPRESS frame work which is quite popular for using node js.
+	In this project node.js is used with the help of EXPRESS frame work.
 
 	2.MongoDB  
-		This is the DataBase used in the project
+		 DataBase used in the project
 
 	3.css
-		css is used for styling
+		Css is used for styling
 
 	4.HTML
 		It is used for basic bulding block of website	
+	
+	5.Bootstrap (3.x version) used
