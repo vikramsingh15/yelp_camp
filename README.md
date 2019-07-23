@@ -2,7 +2,7 @@
    			Project Description (features)
 
 This project contains many features and with the help of these you can 
-	1.Sign up
+	###Sign up
 New user can sign up to the website for accessing the features of the website like adding a comment
 	2.Log in
 		Existing users can log in who already signed up
