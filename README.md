@@ -5,39 +5,50 @@ In this website we can post new campgrounds and get all information related to c
 
 Link of this website(https://immense-forest-16737.herokuapp.com).
 
-## Features of website
+Throughout this website tools and technologies used:
 
-### Sign up
+   - HTML5
 
+   - CSS3
 
-### Log In
+   - JavaScript
 
+   - Bootstrap 3
 
+   - DOM Manipulation
+
+   - jQuery
+
+   -  Unix(Command Line) Commands
+
+   -  NodeJS
+
+   -  NPM
+
+   -  ExpressJS
+
+   -  REST
+
+   - MongoDB
+
+   - Database Associations
+
+   - Authentication
+
+   - PassportJS
+
+   - Authorization
+   
+   
+   ###Basic Over view of website
+   
+   
 ### Add new camp ground (Basic CRUD operation included)
 
-The Users can create their own campground with description which includes adding title, image (using cloudinary) and price. 
+The Users can create their own campground with description which includes adding title, photograph and price. 
 
 ### Add Comments (Basic CRUD operation included)
 Logged in Users can comment on the campground created by other Users.
 
 ### Admin control over the website
 Admin of the website can delete the campgrounds and comments created by the user of the website.
-
-
-
-### STACK USED IN WEBSITE
-
-	1.Node.js 
-
-	In this project node.js is used with the help of EXPRESS frame work.
-
-	2.MongoDB  
-		 DataBase used in the project
-
-	3.css
-		Css is used for styling
-
-	4.HTML
-		It is used for basic bulding block of website	
-	
-	5.Bootstrap (3.x version) used
