@@ -2,29 +2,28 @@
    			Project Description (features)
 
 This project contains many features and with the help of these you can 
-	1)sign up
+	1.Sign up
 New user can sign up to the website for accessing the features of the website like adding a comment
-	2)log in
+	2.Log in
 		Existing users can log in who already signed up
-	3)add new campground
+	3.Add new campground
 The Users can create their own campground with description which includes adding title, photograph and price. 
-	4)add new comment
+	4.Add new comment
 Logged in Users can comment on the campground created by other Users.
-	-delete comment
+	5.Delete comment
 		User who commented can delete the comment later.
-	5) admin control over the web site
+	6. Admin control over the web site
+	
+	
+	
 Admin of the website can delete the campgrounds and comments created by the user of the website.
-This web includes all the basic features which are required to show case the backend 
-work with the help of node.js framework- EXPRESS
-This is a website which is easy to use with simple user interface
 
 Structure of the program
 
-Tools , frontend -backend
-Tools used in making the website are as follows-
+Stack used to build website
 
 	1.Node.js 
-In this project node.js is used with the help of EXPRESS frame work which is quite popular for using node js.
+In this project node.js is used with the help of EXPRESS frame work.
 
 	2.MongoDB  
 		This is the DataBase used in the project
